@@ -1,4 +1,5 @@
 # Thiago Costa
+[![Site Badge](https://img.shields.io/badge/Site-thiagogcosta-blue?style=flat-square&logo=Lattes&logoColor=white&link=https://thiagogcosta.github.io/)](https://thiagogcosta.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/thiagogcosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-gcosta/)](https://www.linkedin.com/in/thiago-gcosta/)
 [![Lattes Badge](https://img.shields.io/badge/Lattes-thiagogcosta-blue?style=flat-square&logo=Lattes&logoColor=white&link=http://lattes.cnpq.br/7784632546993887)](http://lattes.cnpq.br/7784632546993887)
 [![Gmail Badge](https://img.shields.io/badge/-thiago.gcosta13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.gcosta13@gmail.com)](mailto:thiago.gcosta13@gmail.com)
