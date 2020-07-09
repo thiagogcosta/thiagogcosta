@@ -5,4 +5,4 @@ I'm Thiago Costa, Master's Candidate in Computer and Mathematical Sciences at th
 - 🔭 I’m currently working on Data Science and Full Stack Development projects
 - 🌱 I’m currently learning DEVOPS, AI and improve my habilities with Python and Java
 - 💬 Ask me about Full Stack Development, Data Science, Machine Learning and Computer Science
-⚡ Tecnologies: Java, Spring Boot, Python3, DJango, Scikit-learn, NLTK
+- ⚡ Tecnologies: Java, Spring Boot, Python3, DJango, Scikit-learn, NLTK
