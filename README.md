@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-thiago.gcosta13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.gcosta13@gmail.com)](mailto:thiago.gcosta13@gmail.com)
 ### Hi 👋
 I'm Thiago Costa, Master's Candidate in Computer and Mathematical Sciences at the Institute of Mathematical and Computer Sciences(ICMC-USP), Bachelor in Computer Science at the University Center of Marilia (UNIVEM). My main interests are focused on Full Stack Development, Data Science, Machine Learning and Computer Science.
-- 🔭 I’m currently working on Data Science and Full Stack Development projects
+- 🔭 I’m currently working on Data Science projects
 - 🌱 I’m currently learning AI, DevOps and improve my habilities with Python and Java
-- 💬 Ask me about Full Stack Development, Data Science, Machine Learning and Computer Science
-- ⚡ Tecnologies: Java, Python3, DJango, Scikit-learn, NLTK
+- 💬 Ask me about Data Science, Machine Learning and Computer Science
+- ⚡ Tecnologies: Java, Python3, DJango, Scikit-learn, NLTK, Keras
